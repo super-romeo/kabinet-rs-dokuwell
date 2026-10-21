@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kabinet-rs.dokuline.com/sitemap.xml
